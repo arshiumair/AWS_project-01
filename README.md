@@ -2,7 +2,7 @@
 
 An interactive, multi-page website showcasing the Solar System — hosted on an **Amazon EC2** instance using **Apache web server**.
 
-![Solar System](https://upload.wikimedia.org/wikipedia/commons/4/4c/Solar_sys8.jpg)
+![Solar System]([https://upload.wikimedia.org/wikipedia/commons/4/4c/Solar_sys8.jpg](https://en.wikipedia.org/wiki/Solar_System#/media/File:Solar_System_true_color_(title_and_caption).jpg))
 
 ---
 
@@ -62,13 +62,6 @@ This project features an educational and visually rich interface to explore our 
 - Troubleshooting image MIME issues
 - Creating and restoring from AMI
 - Domain/IP-based deployment
-
----
-
-## 🔗 Live Demo (if available)
-
-> http://YOUR_EC2_PUBLIC_IP  
-> *(Or replace with domain if you have one)*
 
 ---
 
