@@ -2,7 +2,7 @@
 
 An interactive, multi-page website showcasing the Solar System — hosted on an **Amazon EC2** instance using **Apache web server**.
 
-![Solar System](https://upload.wikimedia.org/wikipedia/commons/4/4c/Solar_sys8.jpg](https://en.wikipedia.org/wiki/Solar_System#/media/File:Solar_System_true_color_(title_and_caption).jpg))
+![Solar System](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Solar_System_true_color_%28title_and_caption%29.jpg/1920px-Solar_System_true_color_%28title_and_caption%29.jpg)
 
 ---
 
