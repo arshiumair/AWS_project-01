@@ -41,7 +41,7 @@ This project features an educational and visually rich interface to explore our 
 | Category    | Tools Used                    |
 |------------|-------------------------------|
 | Frontend   | HTML5, CSS3, JavaScript       |
-| Hosting    | Amazon EC2 (Ubuntu), Apache2  |
+| Hosting    | Amazon EC2 (Fedora), Apache2  |
 | Access     | SSH (PEM key)                 |
 | Image Mgmt | `curl`, `wget`                |
 | Backup     | AMI (Amazon Machine Image)    |
